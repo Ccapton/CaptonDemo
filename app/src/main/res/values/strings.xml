@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">卡普东心声</string>
+    <string name="bmob_function_update">update_user</string>
+    <string name="bmob_function_base_url">http://cloud.bmob.cn/b3645092117053f7/</string>
+    <string name="add_btn_behavior">com.capton.baseapp.AddButtonBehavior</string>
+</resources>

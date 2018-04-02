@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/addDynamic"
+        android:text="发布动态"
+        android:paddingLeft="30dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <View
+        android:background="@color/bg_grey"
+        android:layout_width="match_parent"
+        android:layout_height="2px"/>
+    <TextView
+        android:id="@+id/addArticle"
+        android:text="发布文章"
+        android:paddingLeft="30dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+</LinearLayout>
